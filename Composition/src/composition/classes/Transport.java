@@ -1,5 +1,5 @@
 
-package composition.clases;
+package composition.classes;
 
 /**
  *

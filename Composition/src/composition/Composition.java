@@ -4,11 +4,11 @@
  */
 package composition;
 
-import composition.clases.CombustionEngine;
-import composition.clases.ElectricEngine;
-import composition.clases.Human;
-import composition.clases.Robot;
-import composition.clases.Transport;
+import composition.classes.CombustionEngine;
+import composition.classes.ElectricEngine;
+import composition.classes.Human;
+import composition.classes.Robot;
+import composition.classes.Transport;
 
 /**
  *
