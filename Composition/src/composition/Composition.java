@@ -2,19 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package composicion;
+package composition;
 
-import composicion.clases.CombustionEngine;
-import composicion.clases.ElectricEngine;
-import composicion.clases.Human;
-import composicion.clases.Robot;
-import composicion.clases.Transport;
+import composition.clases.CombustionEngine;
+import composition.clases.ElectricEngine;
+import composition.clases.Human;
+import composition.clases.Robot;
+import composition.clases.Transport;
 
 /**
  *
  * @author estiben
  */
-public class Composicion {
+public class Composition {
 
     /**
      * @param args the command line arguments
